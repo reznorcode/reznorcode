@@ -1,20 +1,18 @@
-![ezgif-5-b24d89f01c](https://user-images.githubusercontent.com/66682646/149973617-0d3972e9-e541-48d4-97e3-6343fb56006a.gif)
+### Hi! 👋
 
-
-
-A data lover.
-
-## <img width="23" alt="about" src="https://user-images.githubusercontent.com/66682646/149965115-a0078ab6-f1f5-4889-8909-9f300073c9fa.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```python
-import pandas as pd
+```kotlin
+object Igor {
+ val name = "Igor Dequi Liotto"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Kotlin", "Java", "JavaScript", "React", "Python") 
 
-class Data Scientist:
- def __init__(name, skillset):
- self.name = Igor D. Liotto
- self.skillset = Python, 
+}
 ```
 
 ## **Linguagens e Ferramentas:**  
@@ -33,41 +31,18 @@ class Data Scientist:
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/reznorcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reznorcode&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/reznorcode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=reznorcode&show_icons=true&theme=dracula&line_height=27" alt="Igor's github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/igor-dequi-liotto/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-
-<!--
-**reznorcode/reznorcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
