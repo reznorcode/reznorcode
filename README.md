@@ -9,11 +9,12 @@ A data lover.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```python
+import pandas as pd
 
-class Igor Dequi Liotto:
+class Data Scientist:
  def __init__(name, skillset):
- self.name = name
- self.skillset = skillset
+ self.name = Igor D. Liotto
+ self.skillset = Python, 
 ```
 
 ## **Linguagens e Ferramentas:**  
