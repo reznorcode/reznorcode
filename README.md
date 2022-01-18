@@ -1,6 +1,5 @@
-<center><img src="https://user-images.githubusercontent.com/66682646/149953091-4e00bebf-c287-4949-96e6-0c78bf48d5d4.gif" alt="Braydon's GitHub Banner" style="background-position: center;"></img></center>
+![Comp-1](https://user-images.githubusercontent.com/66682646/149955436-e5f20971-2cdc-4f13-88f3-dc0944230d15.gif)
 
-![ezgif-7-9b7f2d3b5d](https://user-images.githubusercontent.com/66682646/149953091-4e00bebf-c287-4949-96e6-0c78bf48d5d4.gif)
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
