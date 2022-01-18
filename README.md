@@ -1,21 +1,19 @@
-![Comp-1](https://user-images.githubusercontent.com/66682646/149955436-e5f20971-2cdc-4f13-88f3-dc0944230d15.gif)
+![ezgif-5-b24d89f01c](https://user-images.githubusercontent.com/66682646/149973617-0d3972e9-e541-48d4-97e3-6343fb56006a.gif)
 
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+A data lover.
+
+## <img width="23" alt="about" src="https://user-images.githubusercontent.com/66682646/149965115-a0078ab6-f1f5-4889-8909-9f300073c9fa.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+```python
 
-}
+class Igor Dequi Liotto:
+ def __init__(name, skillset):
+ self.name = name
+ self.skillset = skillset
 ```
 
 ## **Linguagens e Ferramentas:**  
