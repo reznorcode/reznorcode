@@ -6,7 +6,7 @@ A data lover.
 
 ## <img width="23" alt="about" src="https://user-images.githubusercontent.com/66682646/149965115-a0078ab6-f1f5-4889-8909-9f300073c9fa.png"> About me:
 
-<img align="right" width="349" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="339" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```python
 import pandas as pd
