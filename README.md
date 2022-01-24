@@ -9,8 +9,8 @@ import pandas as pd
 
 about_igor = pd.DataFrame({
         'table_name': ['Igor's Skills'],
-        'main_technologies': ['Python', 'Pandas', 'Matplotlib', 'Numpy', 'Machine Learnig'], 
-        'xp': ['2 years', '1 year', 'less than one year', 'less than one year', 'less than one year']})
+        'main_technologies': ['Python', 'Django", 'Pandas', 'Matplotlib', 'Numpy', 'Machine Learnig'], 
+        'xp': ['2 years', '1 year' , '1 year', 'less than one year', 'less than one year', 'less than one year']})
 print(about_igor)
 robot: I'll still beat humans at chess! >:D
 ```
@@ -21,6 +21,7 @@ robot: I'll still beat humans at chess! >:D
   </tr>
   <tr>
     <td>Python</td>
+    <td>Django</td>
     <td>Pandas</td>
     <td>Matplotlib</td>
     <td>Numpy</td>
@@ -28,6 +29,7 @@ robot: I'll still beat humans at chess! >:D
   </tr>
   <tr align="center">
     <td>+2 years</td>
+    <td><1 year</td>      
     <td>+1 year</td>
     <td><1 year</td>
     <td><1 year</td>
