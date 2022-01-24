@@ -1,7 +1,3 @@
-![ezgif-5-b24d89f01c](https://user-images.githubusercontent.com/66682646/149973617-0d3972e9-e541-48d4-97e3-6343fb56006a.gif)
-
-
-
 A data lover.
 
 ## <img width="23" alt="about" src="https://user-images.githubusercontent.com/66682646/149965115-a0078ab6-f1f5-4889-8909-9f300073c9fa.png"> About me:
