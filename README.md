@@ -29,7 +29,7 @@ robot: I'll still beat humans at chess! >:D
   </tr>
   <tr align="center">
     <td>+2 years</td>
-    <td><1 year</td>      
+    <td>+1 year</td>      
     <td>+1 year</td>
     <td><1 year</td>
     <td><1 year</td>
