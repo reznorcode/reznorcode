@@ -1,4 +1,4 @@
-i have to update my read me, but dont have time now.. so, thank you for your visit!
+I have to update my read me, but dont have time now.. so, thank you for your visit!
 
 ## **GitHub Estatísticas**
 
